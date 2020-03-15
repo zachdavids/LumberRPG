@@ -1,0 +1,12 @@
+{
+    "auto": {
+        "Include": [
+            "Include/LumberRPG/LumberRPGBus.h"
+        ],
+        "Source": [
+            "Source/LumberRPGModule.cpp",
+            "Source/LumberRPGSystemComponent.cpp",
+            "Source/LumberRPGSystemComponent.h"
+        ]
+    }
+}

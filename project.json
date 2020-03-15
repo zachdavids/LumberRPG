@@ -1,0 +1,14 @@
+{
+    "project_name": "LumberRPG",
+    "product_name": "LumberRPG",
+    "executable_name": "LumberRPGLauncher",
+    "modules" : [],
+    "project_id": "{C9CBB09F-7143-4FA9-BE21-F081AEF89318}",
+
+    "android_settings" : {
+        "package_name" : "com.lumberyard.yourgame",
+        "version_number" : 1,
+        "version_name" : "1.0.0.0",
+        "orientation" : "landscape"
+    }
+}

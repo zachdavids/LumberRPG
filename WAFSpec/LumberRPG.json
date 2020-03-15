@@ -1,0 +1,9 @@
+{
+    "description": "Configuration for LumberRPG",
+    "visual_studio_name": "LumberRPG",
+    "comment" : "",
+    "game_projects" : "LumberRPG",
+
+    "modules" : [
+    ]
+}
